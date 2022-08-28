@@ -1,5 +1,5 @@
 # Drum-Kit
-This is a e-drum kit website.
+This is an e-drum kit website.
 Can either use mouse click or keyboard buttons to play.
 
 📑 A soft Reminder: 
